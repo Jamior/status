@@ -1,7 +1,8 @@
 # Change these first
 owner: Jamior # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+assignees:
+  - Jamior
 sites:
   - name: Homepage
     url: https://jadyn.au
@@ -45,6 +46,7 @@ status-website:
     - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
