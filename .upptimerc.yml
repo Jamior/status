@@ -14,20 +14,24 @@ sites:
     url: https://gitlab.jadyn.au
   - name: Nebula 
     url: https://dashboard.jadyn.au
+    icon: https://github.com/Jamior/status/blob/master/zep.ico
   - name: Riot 
     url: https://riot.jadyn.au
+    icon: https://github.com/Jamior/status/blob/master/zep.ico
   - name: Embeds 
     url: https://embed.jadyn.au
   - name: Lynx 
     url: https://i.jadyn.au
-  - name: MC Server Creamy
+  - name: Modded | Creamy
     url: 15.235.216.42
     port: 25573
     check: "tcp-ping"
-  - name: Sparked Server
+    icon: https://github.com/Jamior/status/blob/master/mc.ico
+  - name: Modded | BetterMC
     url: 51.161.198.223
     port: 25501
     check: "tcp-ping"
+    icon: https://github.com/Jamior/status/blob/master/mc.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
