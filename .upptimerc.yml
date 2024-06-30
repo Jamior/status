@@ -3,6 +3,8 @@ owner: Jamior # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 assignees:
   - Jamior
+i18n:
+  footer: Making the impossible, possible.
 sites:
   - name: Homepage
     url: https://jadyn.au
