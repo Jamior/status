@@ -148,19 +148,19 @@
     "url": "51.161.198.223",
     "icon": "https://raw.githubusercontent.com/Jamior/status/master/mc.ico",
     "slug": "modded-i-better-mc",
-    "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "73.06%",
+    "uptimeDay": "73.06%",
+    "uptimeWeek": "73.06%",
+    "uptimeMonth": "73.06%",
+    "uptimeYear": "73.06%",
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-06-30": 0
+      "2024-06-30": 3
     }
   }
 ]
