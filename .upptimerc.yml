@@ -21,12 +21,16 @@ sites:
     url: 15.235.216.42
     port: 25573
     check: "tcp-ping"
+  - name: Sparked Server
+    url: 51.161.198.223
+    port: 25501
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status-dev.jadyn.au
-  theme: night 
+  theme: dark
   logoUrl: https://github.com/Jamior/status/blob/master/image03.png
   # baseUrl: /your-repo-name
   name: Service Status
