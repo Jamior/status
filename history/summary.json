@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadyn.au.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "3.53%",
-    "uptimeDay": "3.53%",
-    "uptimeWeek": "3.53%",
-    "uptimeMonth": "3.53%",
-    "uptimeYear": "3.53%",
-    "time": 222,
-    "timeDay": 222,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 200,
+    "timeDay": 200,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.jadyn.au.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "3.27%",
-    "uptimeDay": "3.27%",
-    "uptimeWeek": "3.27%",
-    "uptimeMonth": "3.27%",
-    "uptimeYear": "3.27%",
-    "time": 424,
-    "timeDay": 424,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 605,
+    "timeDay": 605,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitlab",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.jadyn.au.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "2.65%",
-    "uptimeDay": "2.65%",
-    "uptimeWeek": "2.65%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "2.65%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1036,
+    "timeDay": 1036,
+    "timeWeek": 1036,
+    "timeMonth": 1036,
+    "timeYear": 1036,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nebula",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.jadyn.au.ico",
     "slug": "nebula",
     "status": "up",
-    "uptime": "2.24%",
-    "uptimeDay": "2.24%",
-    "uptimeWeek": "2.24%",
-    "uptimeMonth": "2.24%",
-    "uptimeYear": "2.24%",
-    "time": 500,
-    "timeDay": 500,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Riot",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/riot.jadyn.au.ico",
     "slug": "riot",
     "status": "up",
-    "uptime": "1.78%",
-    "uptimeDay": "1.78%",
-    "uptimeWeek": "1.78%",
-    "uptimeMonth": "1.78%",
-    "uptimeYear": "1.78%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 510,
+    "timeDay": 510,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Embeds",
@@ -105,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/embed.jadyn.au.ico",
     "slug": "embeds",
     "status": "up",
-    "uptime": "1.38%",
-    "uptimeDay": "1.38%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
-    "time": 467,
-    "timeDay": 467,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 587,
+    "timeDay": 587,
+    "timeWeek": 587,
+    "timeMonth": 587,
+    "timeYear": 587,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lynx",
@@ -125,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.jadyn.au.ico",
     "slug": "lynx",
     "status": "up",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
-    "time": 500,
-    "timeDay": 500,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 668,
+    "timeDay": 668,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MC Server Creamy",
@@ -156,5 +142,25 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sparked Server",
+    "url": "51.161.198.223",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "sparked-server",
+    "status": "down",
+    "uptime": "44.29%",
+    "uptimeDay": "44.29%",
+    "uptimeWeek": "44.29%",
+    "uptimeMonth": "44.29%",
+    "uptimeYear": "44.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-06-30": 0
+    }
   }
 ]
