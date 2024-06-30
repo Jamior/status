@@ -22,12 +22,12 @@ sites:
     url: https://embed.jadyn.au
   - name: Lynx 
     url: https://i.jadyn.au
-  - name: Modded | Creamy
+  - name: Modded I Creamy
     url: 15.235.216.42
     port: 25573
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/Jamior/status/master/mc.ico
-  - name: Modded | BetterMC
+  - name: Modded I BetterMC
     url: 51.161.198.223
     port: 25501
     check: "tcp-ping"
@@ -46,6 +46,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Github
+      href: https://github.com/Jamior/status
     - title: Discord
       href: https://discord.gg/AYUPyKQX6b
   metaTags:
