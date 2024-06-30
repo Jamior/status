@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status-dev.jadyn.au
   theme: night 
-  logoUrl: https://example.com/image.jpg
+  logoUrl: https://github.com/Jamior/status/blob/master/image03.png
   # baseUrl: /your-repo-name
   name: Service Status
   introTitle: "**Jadyn.au**"
