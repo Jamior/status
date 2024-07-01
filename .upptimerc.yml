@@ -28,8 +28,8 @@ sites:
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/Jamior/status/master/mc.ico
   - name: Modded I BetterMC
-    url: 51.161.198.223
-    port: 25501
+    url: 15.235.181.222
+    port: 25500
     check: "tcp-ping"
     icon: https://raw.githubusercontent.com/Jamior/status/master/mc.ico
 
